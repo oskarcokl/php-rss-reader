@@ -1,0 +1,14 @@
+{
+    "name": "oskar/php-rss-reader",
+    "description": "A simple RSS reader written in PHP.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "coskar",
+            "email": "oskar.cokl@iprom.si"
+        }
+    ],
+    "require": {
+        "dg/rss-php": "^1.5"
+    }
+}
